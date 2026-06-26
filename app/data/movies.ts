@@ -17,7 +17,7 @@ export const movies: Movie[] = [
     year: 1972,
     genre: ["Drama", "Crimen"],
     image: "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    link: "https://disk.yandex.com/example1",
+    link: "https://disk.yandex.com/i/KPDthNlAH4USGQ",
     description: "La saga épica de una familia mafiosa italiana en América.",
     rating: "9.2",
     duration: "2h 55min"
