@@ -15,12 +15,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es">
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8580038362736145"
-          crossOrigin="anonymous"
-          strategy="beforeInteractive"
-        />
+      <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8580038362736145"
+     crossOrigin="anonymous"></script>
+     </head>
         <meta name="google-adsense-account" content="ca-pub-8580038362736145"/>
         <Script id="adsense-init" strategy="afterInteractive">{`
           (adsbygoogle = window.adsbygoogle || []).push({});
