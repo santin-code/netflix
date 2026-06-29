@@ -21,6 +21,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           crossOrigin="anonymous"
           strategy="beforeInteractive"
         />
+        <meta name="google-adsense-account" content="ca-pub-8580038362736145"/>
         <Script id="adsense-init" strategy="afterInteractive">{`
           (adsbygoogle = window.adsbygoogle || []).push({});
         `}</Script>
