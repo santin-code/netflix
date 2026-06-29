@@ -1,0 +1,3 @@
+<Script id="adsense-init" strategy="afterInteractive">{`
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        `}</Script>
