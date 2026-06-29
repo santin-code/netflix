@@ -26,6 +26,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           (adsbygoogle = window.adsbygoogle || []).push({});
         `}</Script>
             <body>
+      
         {children}    
         
       </body>
