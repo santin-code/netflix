@@ -1,3 +1,1 @@
-<Script id="adsense-init" strategy="afterInteractive">{`
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        `}</Script>
+google.com, pub-8580038362736145, DIRECT, f08c47fec0942fa0
